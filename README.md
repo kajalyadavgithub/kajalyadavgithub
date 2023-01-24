@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Font-End-Development**
 
-- 👨‍💻 All of my projects are available at [https://super-cupcake-a88ee5.netlify.app](https://super-cupcake-a88ee5.netlify.app)
+- 👨‍💻 All of my projects are available at [https://magenta-alfajores-79c1e6.netlify.app)
 
 - 💬 Ask me about **Html,CSS, Javascript,React**
 
